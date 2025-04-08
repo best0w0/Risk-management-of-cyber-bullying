@@ -9,9 +9,7 @@
   文本情感分析
 📊 数据可视化
   词云展示关键词
-  <img width="416" alt="image" src="https://github.com/user-attachments/assets/db646098-2cd2-4657-88ef-e6f2361c1fcd" />
   情感极性分析图
-  <img width="416" alt="image" src="https://github.com/user-attachments/assets/b4b472f7-bac4-4d69-9e57-65738219a736" />
 📈 案例研究：结合典型事件，探讨网络暴力的成因与演化路径。
 🛠 治理建议：从法律法规、技术手段、平台责任和公众教育等多维度提出治理路径。
 💻 技术栈：
@@ -22,3 +20,5 @@
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/dc52762a-953b-4ec3-825d-8d5146b3e54e" />
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/ed04a3c0-50ff-4eb1-866b-d6ac8110d2ac" />
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/32e65be5-441f-4a32-b3f9-dbf752b00318" />
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/db646098-2cd2-4657-88ef-e6f2361c1fcd" />
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/b4b472f7-bac4-4d69-9e57-65738219a736" />
