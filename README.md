@@ -5,11 +5,7 @@
 📚 文献分析：系统梳理国内外关于网络暴力的定义、类型、表现形式及治理政策。
 🧠 文本挖掘与分析：
   TF-IDF、LDA、LSA 主题模型
-  <img width="441" alt="image" src="https://github.com/user-attachments/assets/76041fe0-6902-4a91-acac-92edeac104e4" />
-  <img width="416" alt="image" src="https://github.com/user-attachments/assets/dc52762a-953b-4ec3-825d-8d5146b3e54e" />
-  <img width="416" alt="image" src="https://github.com/user-attachments/assets/ed04a3c0-50ff-4eb1-866b-d6ac8110d2ac" />
   K-means 聚类
-  <img width="416" alt="image" src="https://github.com/user-attachments/assets/32e65be5-441f-4a32-b3f9-dbf752b00318" />
   文本情感分析
 📊 数据可视化
   词云展示关键词
@@ -21,3 +17,8 @@
 💻 技术栈：
   Python（Numpy, Pandas, Scikit-learn, Jieba, Gensim, Matplotlib, Seaborn 等）
   可视化工具：WordCloud、情感极性图等
+代码截图：
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/76041fe0-6902-4a91-acac-92edeac104e4" />
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/dc52762a-953b-4ec3-825d-8d5146b3e54e" />
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/ed04a3c0-50ff-4eb1-866b-d6ac8110d2ac" />
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/32e65be5-441f-4a32-b3f9-dbf752b00318" />
